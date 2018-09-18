@@ -1,8 +1,5 @@
-# Arduino Learning Path
+# Arduino Sensor Example
 
-Learning to use Github
-Learning to program Arduino
-
-Hope to share my learning path.
+Arduino Sensor Code
 
 Created using Github Desktop
