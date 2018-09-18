@@ -1,5 +1,5 @@
-# Arduino Sensor Example
+# Arduino Sensor Sample Code
 
-Arduino Sensor Code
+Arduino Sensor Sample Code
 
-Created using Github Desktop
+Brought to you by hkstem.club
