@@ -10,11 +10,11 @@ void setup()
   lcd.setCursor(0,0);
   lcd.print("Hello, world!");
   lcd.setCursor(0,1);
-  lcd.print("MiroTek");
+  lcd.print("How are you?");
   lcd.setCursor(0,2);
   lcd.print("Arduino LCD IIC 2004");
   lcd.setCursor(0,3);
-  lcd.print("shop.mirotek.com.tw");
+  lcd.print("hkstem.club");
 }
 
 void loop()
